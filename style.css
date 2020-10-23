@@ -1,0 +1,28 @@
+body
+{
+    background-size: cover;
+}
+
+.heading
+{
+    background-color: black;
+    border: 2px solid black;
+    border-radius: 10px;
+    color: blueviolet;
+    width: 1200px;
+    font-family: cursive;
+    height: 110px;
+    font-size: 80px;
+    margin-bottom: 360px;
+}
+
+a
+{
+    border-radius: 10px;
+    font-size: 60;
+    height: 500px;
+    text-align: center;
+    background-color: black;
+    color: blueviolet;
+    margin-left: 15px;
+}
